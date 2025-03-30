@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "priority": 1,
+      "action": { "type": "block" },
+      "condition": { "urlFilter": "*://*.doubleclick.net/*", "resourceTypes": ["script", "xmlhttprequest"] }
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "action": { "type": "block" },
+      "condition": { "urlFilter": "*://*.ads.google.com/*", "resourceTypes": ["script", "xmlhttprequest"] }
+    }
+  ]
+  
