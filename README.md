@@ -14,7 +14,7 @@ git clone git@github.com:USERNAME/REPO-NAME.git
 ```
 
 ### 2️⃣ Download Secara Manual
-1. Kunjungi [GitHub Repo](https://github.com/USERNAME/REPO-NAME)
+1. Kunjungi [GitHub Repo](https://github.com/Farewellez/SimpleAds-Blocker)
 2. Klik tombol **Code** (warna hijau)
 3. Pilih **Download ZIP**
 4. Ekstrak file ZIP ke folder pilihanmu
