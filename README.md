@@ -34,12 +34,5 @@ git clone git@github.com:USERNAME/REPO-NAME.git
 
 ---
 
-## 🛠 Fitur yang Akan Datang
-✅ Whitelist situs tertentu
-✅ Tombol toggle ON/OFF
-✅ UI yang lebih interaktif
-
----
-
 💡 **Kontribusi**
 Silakan buat **Pull Request** jika ingin menambahkan fitur atau perbaikan! 😉
